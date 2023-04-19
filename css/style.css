@@ -1,0 +1,156 @@
+#wrapper{
+    width: 1454px;
+}
+#header{
+    width: 1170px;
+    height: 50px;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+#left_header{
+    width: 245px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#right_header{
+    width: 340px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#osearch{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+}
+#TieuDe{
+    width: 100%;
+    height: 55px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+#chuaSP{
+    height: 660px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.SanPham{
+    width: 1180px;
+    height: 305px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 135px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.ThongTinSP{
+    margin-left: 65px;
+    display: flex;
+    flex-direction: column;
+    width: 480px;   
+    justify-content: center;
+    height: 235px;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+#chunho{
+    color: gray;
+}
+#phongto{
+    height: 100%;
+}
+#SPCuoi{
+    margin-left: 135px;
+    margin-top: 50px;
+}
+#ThongTinSPCuoi{
+    height: 200px;
+    width: 460px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 90px;
+}
+#Gift{
+    font-size: 45px;
+}
+#footer
+{
+    width: 1444px;
+    height: 430px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+#left_footer
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 130px ;
+    width: 480px;
+    margin-top: 100px;
+}
+#about
+{
+    color: white;
+}
+#help
+{
+    color: white;
+}
+#contact
+{
+    color: white;
+}
+#language
+{
+    background-color: black;
+    color: aliceblue;
+}
+#right_footer
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;       
+    color: aliceblue;
+    width: 440px;
+    margin-top: 100px;
+    height: 240px;
+    margin-right: 125px;
+}
+#email
+{
+    height: 50px;
+    width: 305px;
+    background-color: #000000;
+    color: white;
+    font-size: larger;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+#dongcuoi
+{
+    margin-left: 22px;
+}
+#receive
+{
+    height: 55px;
+}
+.subcribe{
+    width: 125px;
+    height: 53px;
+    background-color: #28a745;
+    border-radius: 5px;
+}
